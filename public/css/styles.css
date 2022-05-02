@@ -250,6 +250,16 @@ p {
   width: 20rem;
 }
 
+.footer-tag {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+.footer-tag:hover {
+  color: #E45826;
+}
+
 /* Footer Section */
 .social-icon {
   padding: 20px 30px;
